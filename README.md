@@ -11,7 +11,10 @@ I recomend using https://findmyfbid.com/
 you enter the URL of the facebook profile the site
 will then convert it to a ID Number, which my tool uses 
 
-You Will need Chrome For this tool to work
+You Will need Chrome For this tool to work, 
+and you will also need to be logged into a FaceBook Profile
+as FaceBook doesnt let you see certain content with privacy
+settings.
 
 Informaiton Available
 ======================
@@ -24,3 +27,8 @@ Likes,
 Comments on photos and Videos,
 Connections,
 Places Visited, 
+
+
+THIS IS THE ULTIMATE STALKER TOOL,
+PLEASE DO NOT USE IT IRRESPONSIBLY
+I WILL NOT BE HELD RESPONSIBLE FOR YOUR ACTIONS WITH THIS TOOL
