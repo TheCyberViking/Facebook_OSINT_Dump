@@ -450,7 +450,7 @@ SET /P T=Type Pick a Number then press ENTER:
 IF %T%==1 GOTO ;TagPhoto
 IF %T%==2 GOTO :TagVideo
 IF %T%==3 GOTO :TagPosts
-IF %T%==1 GOTO :Start
+IF %T%==4 GOTO :Start
 
 :TagPhoto
 start chrome https://www.facebook.com/search/%userid%/photos-of/intersect
