@@ -41,10 +41,6 @@ echo This makes public Facebook Information easy to find
 echo.
 echo each link will open a new webpage with a new link
 echo.
-echo This is The Paid For AdFree Version
-echo.
-echo Thank You For Buying My Software
-echo.
 
 pause
 
