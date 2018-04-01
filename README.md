@@ -11,6 +11,7 @@ I recomend using https://findmyfbid.com/
 you enter the URL of the facebook profile the site
 will then convert it to a ID Number, which my tool uses 
 
+You Will need Chrome For this tool to work
 
 Informaiton Available
 ======================
